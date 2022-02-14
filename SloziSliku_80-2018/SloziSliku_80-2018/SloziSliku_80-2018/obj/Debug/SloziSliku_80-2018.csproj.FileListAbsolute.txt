@@ -1,0 +1,10 @@
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\bin\Debug\SloziSliku_80-2018.exe.config
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\bin\Debug\SloziSliku_80-2018.exe
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\bin\Debug\SloziSliku_80-2018.pdb
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80-2018.csprojAssemblyReference.cache
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80_2018.Form1.resources
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80_2018.Properties.Resources.resources
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80-2018.csproj.GenerateResource.cache
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80-2018.csproj.CoreCompileInputs.cache
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80-2018.exe
+C:\Users\PC-Korisnik\Desktop\NikolaRnjak_80-2018\III godina\DS\SloziSliku_80-2018\SloziSliku_80-2018\SloziSliku_80-2018\obj\Debug\SloziSliku_80-2018.pdb
